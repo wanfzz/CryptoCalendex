@@ -1,0 +1,19 @@
+{
+  "name": "crypto-calendex",
+  "version": "1.0.0",
+  "description": "CryptoCalendex is a blockchain calendar application designed specifically for Web3 practitioners, helping users easily track and manage project activities and events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanfzz/CryptoCalendex.git"
+  },
+  "author": "wanfzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanfzz/CryptoCalendex/issues"
+  },
+  "homepage": "https://github.com/wanfzz/CryptoCalendex#readme"
+}
