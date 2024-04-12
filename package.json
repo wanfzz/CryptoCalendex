@@ -1,19 +1,33 @@
 {
-  "name": "crypto-calendex",
+  "name": "gas-query",
   "version": "1.0.0",
-  "description": "CryptoCalendex is a blockchain calendar application designed specifically for Web3 practitioners, helping users easily track and manage project activities and events.",
+  "description": "A Node.js module to query on chain gas data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wanfzz/CryptoCalendex.git"
+    "url": "https://github.com/wanfzz/GasQuery"
   },
+  "keywords": [
+    "anna-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
   "author": "wanfzz",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wanfzz/CryptoCalendex/issues"
+    "url": "https://github.com/wanfzz/GasQuery/issues"
   },
-  "homepage": "https://github.com/wanfzz/CryptoCalendex#readme"
+  "homepage": "https://github.com/wanfzz/GasQuery#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "mina-gas-convert": "1.0.0"
+
+  }
 }
