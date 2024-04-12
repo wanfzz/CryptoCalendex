@@ -1,6 +1,6 @@
 {
   "name": "gas-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module to query on chain gas data",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/wanfzz/GasQuery"
   },
   "keywords": [
-    "anna-check-balance",
+    "gas-query",
     "ethereum",
     "gas",
     "balance",
